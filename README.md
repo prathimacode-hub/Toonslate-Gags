@@ -19,7 +19,7 @@ We had built up our games using python and cartoon quiz. It was scarry to take a
 
 The project was built using python and web development skills. It can be viewed here : https://powerongirls.wixsite.com/toonslate
 
-It's all been deployed on Github Pages here : https://prathimacode-hub.github.io/Toonslate-Gigs/
+It's all been deployed on Github Pages here : https://prathimacode-hub.github.io/Toonslate-Gags/
 
 The final deployment could be viewed here :- https://toonslate-gags-with.us
 
