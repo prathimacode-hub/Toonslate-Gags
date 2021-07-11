@@ -1,0 +1,41 @@
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+
+body{
+  text-align: center;
+}
+#quiz1{
+    background-color: yellow;
+    border-color: black;
+    width: 500px;
+    height: 500px;
+}
+
+#quiz2{
+    background-color: red;
+    border-color: black;
+    width: 500px;
+    height: 500px;
+}
+
+#quiz3{
+    background-color: lightblue;
+    border-color: black;
+    width: 500px;
+    height: 500px;
+}
+
+#quiz4{
+    background-color: greenyellow;
+    border-color: black;
+    width: 500px;
+    height: 500px;
+}
